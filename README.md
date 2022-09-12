@@ -1,2 +1,2 @@
-# Automation
+# Automation challenges
 automation practice
